@@ -19,12 +19,15 @@
 ### d. Linux
 
 ### e. Regex
-	2. ![pic1](Image/7.jpg)
+	2. 
+	### ![pic1](Image/7.jpg)
 	 
-	3. ![pic2](Image/reg.jpg)
+	3. 
+	### ![pic2](Image/reg.jpg)
 
 ### f. Play with Snap or CSDT or Blockly
-	2. ![pic3](Image/blockly.jpg)
+	2. 
+	### ![pic3](Image/blockly.jpg)
 
 ### g. Reflection
 	3.
