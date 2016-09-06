@@ -24,7 +24,10 @@
 3. ![pic2](Image/reg.jpg)
 
 ### f. Play with Snap or CSDT or Blockly
-2. ### ![pic3](Image/blockly.jpg)
+2. ![pic3](Image/blockly.jpg)
 
 ### g. Reflection
-3.
+3. These activities were quiet interesting. Honestly, it was more like solving puzzles.
+   I do not quiet see the purpose behind these activities yet but I liked how these activities
+   had logic and coding stuff. I really look forward to learn more about open source and
+   be involved in a project and a program that I am really interested in.
