@@ -17,7 +17,7 @@
 	   life easily no matter what the purpose is about.
 	   
 ### d. Linux
-3. ![pic1](Image/linux.png)
+3. ![pic1](Image/linux.jpg)
 
 ### e. Regex
 2. ![pic1](Image/7.jpg)
