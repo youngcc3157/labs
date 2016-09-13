@@ -3,4 +3,3 @@
 ### github account: youngcc3157
 ### slack handle: youngcc3157
 ### Photo of YoungChul Chun ![pic](Image/profile.jpg)
-![pic](Image/7.jpg)
