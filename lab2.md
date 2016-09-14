@@ -9,7 +9,10 @@
 	it becomes copyright infringement and the guilty party may be prosecuted.
 	  
 ### 3. Why they SHOULDN'T use a project that doesn't have an explicit license
-
+	If you find software that doesn’t have a license, that generally means you have no permission from 
+	the creators of the software to use, modify, or share the software. Although a code host such as 
+	GitHub may allow you to view and fork the code, this does not imply that you are permitted to 
+	use, modify, or share the software for any purpose.
 
 ### 4. Read the Failure to follow the Open System Model Section of Why the Web beat Gopher
 	Do you agree with this claim? write two to five sentences.
@@ -17,10 +20,27 @@
 
 ### 5. Android uses the Apache license 2.0 and it's kernel uses GPL v2, Linux uses tge GPL v2 license, Microsoft .NET Core uses MIT license, SailfishOS is not open source.
 	Can you justify why such a license is chosen (Justification for ONE is enough).
+	Android's standard C library, Bionic, was developed by Google specifically for Android, as a derivation of 
+	the BSD's standard C library code. Bionic itself has been designed with several major features specific to 
+	the Linux kernel. The main benefits of using Bionic instead of the GNU C Library (glibc) or uClibc are its 
+	smaller runtime footprint, and optimization for low-frequency CPUs. At the same time, Bionic is licensed 
+	under the terms of the BSD licence, which Google finds more suitable for the Android's overall licensing 
+	model. Aiming for a different licensing model, toward the end of 2012 Google switched the Bluetooth stack 
+	in Android from the GPL-licensed BlueZ to the Apache-licensed BlueDroid
 
 ### 6. Think of an example project. Pick a license (as a group) using the LICENSE chooser by Github.
 
 ### 7. Read these licenses GPL, LGPL and Apache/BSD and discuss which one will be better - for a developer, for a company and for the common good - write 5 to 10 sentences. You may use tldrlegal
+	GPL will be better for a company because of the major change for the embedded market as GPLv3 requires that 
+	the user must be able to run the modified versions on the device as long as the device is targeted to consumer. 
+	There is no obligation to release the source when the binary is not distributed. For that reason, you can keep 
+	your modifications secret until product delivery.
+	LGPL should be better for developers because programs linked against a library under the LGPL do not need to be 
+	released under the LGPL and can be kept proprietary. 
+	And Non-copyleft licenses like Apach/BSD will be better for common good because in contrast to the GNU licences,
+	Non-copyleft licenses are very permissive. For example, the BSD basically says "here's the source code, do whatever 
+	you want with it, but if you have problems, it's your problem". That means you can take BSD'ed code and turn it into 
+	a proprietary application if you so wish
 
 ### 8. Create a repository and choose a license
 
