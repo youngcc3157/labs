@@ -1,5 +1,12 @@
 #Lab 1
 
+### 1. Write five sentences about choosing a project to work in this course and who will be users/customers and what license will you choose.
+	I have chosen to work for a open source project that is called Weird Side of Youtube. It is a
+	project where we supply weird YouTube videos from a database either using an API or a web page
+	for entertainment. The users can be anyone whoever will watch the video and developers also can
+	be anyone who works on the project. Also, this project uses MIT license because it will allow
+	more freedom of usage and modification of the project for anyone who will use or modify it.
+
 
 ### 2. Why it is important to choose a LICENSE?
 	To maintain programming standards, the development communities that freely operate and improve 
@@ -29,6 +36,9 @@
 	in Android from the GPL-licensed BlueZ to the Apache-licensed BlueDroid
 
 ### 6. Think of an example project. Pick a license (as a group) using the LICENSE chooser by Github.
+	https://github.com/mmetro/WeirdSideofYouTube WeirdSideofYouTube.
+	This project will be using MIT License because it will provide wide range of freedom for users to modify
+	the project and to use it.
 
 ### 7. Read these licenses GPL, LGPL and Apache/BSD and discuss which one will be better - for a developer, for a company and for the common good - write 5 to 10 sentences. You may use tldrlegal
 	GPL will be better for a company because of the major change for the embedded market as GPLv3 requires that 
