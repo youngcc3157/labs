@@ -54,8 +54,8 @@
 	released under the LGPL and can be kept proprietary. 
 	And Non-copyleft licenses like Apach/BSD will be better for common good because in contrast to the GNU licences,
 	Non-copyleft licenses are very permissive. For example, the BSD basically says "here's the source code, do 
-	whatever you want with it, but if you have problems, it's your problem". That means you can take BSD'ed code and turn it 
-	into a proprietary application if you so wish
+	whatever you want with it, but if you have problems, it's your problem". That means you can take BSD'ed code and 
+	turn it into a proprietary application if you so wish
 
 ### 8. Create a repository and choose a license
 
