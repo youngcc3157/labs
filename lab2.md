@@ -6,7 +6,8 @@
 	for entertainment. The users can be anyone whoever will watch the video and developers also can
 	be anyone who works on the project. Also, this project uses MIT license because it will allow
 	more freedom of usage and modification of the project for anyone who will use or modify it.
-
+	MIT license is one of the simplest license that exists so it will provide more flexable work 
+	environment.
 
 ### 2. Why it is important to choose a LICENSE?
 	To maintain programming standards, the development communities that freely operate and improve 
@@ -22,7 +23,11 @@
 	use, modify, or share the software for any purpose.
 
 ### 4. Read the Failure to follow the Open System Model Section of Why the Web beat Gopher
-	Do you agree with this claim? write two to five sentences.
+	I do agree with the claim about the story of Gopher. Gopher project fell victim to forking because
+	they splintered into many options instead of settling on one standard appoarch even before they got
+	enough support for them. The developers should have released their software to the public early as
+	well in order to gain adherents and have them to improve the code. They started project right but
+	then made few mistakes which led their project fall.
 
 
 ### 5. Android uses the Apache license 2.0 and it's kernel uses GPL v2, Linux uses tge GPL v2 license, Microsoft .NET Core uses MIT license, SailfishOS is not open source.
@@ -49,8 +54,8 @@
 	released under the LGPL and can be kept proprietary. 
 	And Non-copyleft licenses like Apach/BSD will be better for common good because in contrast to the GNU licences,
 	Non-copyleft licenses are very permissive. For example, the BSD basically says "here's the source code, do whatever 
-	you want with it, but if you have problems, it's your problem". That means you can take BSD'ed code and turn it into 
-	a proprietary application if you so wish
+	you want with it, but if you have problems, it's your problem". That means you can take BSD'ed code and turn it 
+	into a proprietary application if you so wish
 
 ### 8. Create a repository and choose a license
 
