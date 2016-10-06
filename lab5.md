@@ -58,6 +58,11 @@ int main (int argc, char *argv[])
 }
 ```
 
+###result
+![pic1](Image/step1.jpg)
+
+
+
 ##Step 2
 
 ###CMakeLists.txt - MathFunctions
@@ -144,6 +149,8 @@ double mysqrt(double x)
     return 555;
 }
 ```
+###result
+![pic1](Image/step2.jpg)
 
 ##Step 3
 
@@ -209,6 +216,9 @@ add_library(MathFunctions mysqrt.cxx)
 install (TARGETS MathFunctions DESTINATION bin)
 install (FILES MathFunctions.h DESTINATION include)
 ```
+###result
+![pic1](Image/step3.jpg)
+
 
 ##Step 4
 
@@ -296,6 +306,9 @@ double mysqrt(double x)
 #endif
 }
 ```
+
+###result
+![pic1](Image/step4.jpg)
 
 ##Step 5
 
@@ -500,3 +513,6 @@ double mysqrt(double x)
 #endif
 }
 ```
+
+###result
+![pic1](Image/step5.jpg)
