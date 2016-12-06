@@ -1,8 +1,8 @@
-> First part
-![pic](Image/part1.jpg)
+##First part
+>![pic](Image/part1.jpg)
 
->Second part
- 1. I have observed few hour long discussion between random users about their project. Most part, I could not understand the high level of their project but I was able to understand
+##Second part
+> 1. I have observed few hour long discussion between random users about their project. Most part, I could not understand the high level of their project but I was able to understand
 	their programming language was C++. They seemed to be working at their own open source project. They interact in this context just like they would interact in real life. I noticed 
 	that the pattern of communication was very formal and polite but it was not far different then normal communication in real life.
  2. ![pic](Image/part3.jpg)
@@ -17,13 +17,15 @@
 	There can be errors between what HCI actually does and what the user actually
 	meant to do.
 
+##Third part
 >Name : YoungChul Chun
- Website : www.weirdtube.wtf
- Description : Streaming website of weird videos
- Project Goal : For entertainment
- Communication Modes : www.weirdtube.wtf
+Website : www.weirdtube.wtf
+Description : Streaming website of weird videos
+Project Goal : For entertainment
+Communication Modes : www.weirdtube.wtf
 		      https://github.com/mmetro/WeirdSideofYouTube
 
+##Forth part
 >I think that standard coding is definitely necessary because in a work environment,
 	lots of people code in a same project and sometimes issues can be raise understanding	
 	each other's code. That's when standard code is needed so that there won't be any confusion
