@@ -18,12 +18,12 @@
 	meant to do.
 
 ##Third part
->Name : YoungChul Chun
-	Website : www.weirdtube.wtf
-	Description : Streaming website of weird videos
-	Project Goal : For entertainment
-	Communication Modes : www.weirdtube.wtf
-		      https://github.com/mmetro/WeirdSideofYouTube
+Name : YoungChul Chun
+Website : www.weirdtube.wtf
+Description : Streaming website of weird videos
+Project Goal : For entertainment
+Communication Modes : www.weirdtube.wtf
+		  https://github.com/mmetro/WeirdSideofYouTube
 
 ##Forth part
 >I think that standard coding is definitely necessary because in a work environment,
