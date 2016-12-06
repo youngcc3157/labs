@@ -5,8 +5,8 @@
 > 1. I have observed few hour long discussion between random users about their project. Most part, I could not understand the high level of their project but I was able to understand
 	their programming language was C++. They seemed to be working at their own open source project. They interact in this context just like they would interact in real life. I noticed 
 	that the pattern of communication was very formal and polite but it was not far different then normal communication in real life.
- 2. ![pic](Image/part3.jpg)
- 4. Synchronous and asynchronous transmissions are two different methods of 
+  2. ![pic](Image/part3.jpg)
+  4. Synchronous and asynchronous transmissions are two different methods of 
 	transmission synchronization. Synchronous transmissions are synchronized by 
 	an external clock, while asynchronous transmissions are synchronized by special 
 	signals along the transmission medium.
@@ -19,10 +19,10 @@
 
 ##Third part
 >Name : YoungChul Chun
-Website : www.weirdtube.wtf
-Description : Streaming website of weird videos
-Project Goal : For entertainment
-Communication Modes : www.weirdtube.wtf
+	Website : www.weirdtube.wtf
+	Description : Streaming website of weird videos
+	Project Goal : For entertainment
+	Communication Modes : www.weirdtube.wtf
 		      https://github.com/mmetro/WeirdSideofYouTube
 
 ##Forth part
